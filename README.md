@@ -4,8 +4,6 @@ Power BI dashboard analyzing Amazon sales data
 
 This project analyzes Amazon sales data using Power BI to uncover trends, performance metrics, and profit insights.
 
-## Dashboard Preview
-![Dashboard Preview](dashboard-preview.png)
 
 ## Key Insights
 - Total Orders, Sales, and Profit overview
